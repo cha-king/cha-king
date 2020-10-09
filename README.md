@@ -1,7 +1,7 @@
 # Hello there! I'm Charlie 👋
 I'm a software engineer based out of the San Francisco Bay Area, and I love fixing things with 1s and 0s.
 
-Currently I'm working with [Plenty Farms](https://plenty.ag) towards revolutionizing modern agriculture! :seedling:
+Currently I'm working with [Plenty](https://plenty.ag) towards revolutionizing modern agriculture! :seedling:
 
 ## What I do
 I work a lot with all sorts of IoT and edge devices. Much of my time has been spent building infrastructure for managing these devices and developing applications on the edge. I frequently work with tools like Ansible, Docker, and MQTT that have been immensely useful to that end.
