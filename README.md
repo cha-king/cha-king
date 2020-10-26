@@ -6,7 +6,7 @@ Currently I'm working with [Plenty](https://plenty.ag) towards revolutionizing m
 ## What I do
 I work a lot with all sorts of IoT and edge devices. Much of my time has been spent building infrastructure for managing these devices and developing applications on the edge. I frequently work with tools like Ansible, Docker, and MQTT that have been immensely useful to that end.
 
-Along the way, I've become quite competent in Python and Java development building backing web services, and am having lots of fun diving into Javascript and Node.js!
+Along the way, I've become quite competent in Python and Java development building backing web services, and am having lots of fun diving into Javascript and Node.js for some personal projects!
 
 I also love making life easier for fellow developers! At Plenty, I'm a member of the platform team, and work towards maintaining reliable distributed systems with minimal developer overhead.
 
