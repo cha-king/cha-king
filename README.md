@@ -4,7 +4,7 @@ I'm a Bay Area software engineer, and I love building, breaking, and fixing thin
 These days I'm working at [Verkada](https://verkada.com) on some cool new products!
 
 ## What I do
-I'm most comfortable as a backend / ops developer, but in an ideal world I'd be working wholly full-stack, from front-end to bare metal. There's something really cool to me about being able to help out wherever needed, and that drives a lot of my learning.
+I'm most comfortable as a backend / ops developer, but in an ideal world I'd be working wholly full-stack, from front-end to bare-metal. There's something really cool to me about being able to help out wherever needed, and that drives a lot of my learning.
 
 ## What I've been up to
 - Having discovered the pains of vanilla JS firsthand, I'm having a lot of fun finally getting up speed with [React](https://reactjs.org/) for some personal work.
