@@ -1,17 +1,19 @@
-# Hello there! I'm Charlie 👋
-I'm a software engineer based out of the San Francisco Bay Area, and I love fixing things with 1s and 0s.
+# Hey there! I'm Charlie 👋
+I'm a Bay Area software engineer, and I love building, breaking, and fixing things.
 
-Currently I'm working with [Plenty](https://plenty.ag) towards revolutionizing modern agriculture! :seedling:
+These days I'm working at [Verkada](https://verkada.com) on some cool new products!
 
 ## What I do
-I work a lot with all sorts of IoT and edge devices. Much of my time has been spent building infrastructure for managing these devices and developing applications on the edge. I frequently work with tools like Ansible, Docker, and MQTT that have been immensely useful to that end.
+I'm most comfortable as a backend / ops developer, but in an ideal world I'd be working wholly full-stack, from front-end to bare metal. There's something really cool to me about being able to help out wherever needed, and that drives a lot of my learning.
 
-Along the way, I've become quite competent in Python and Java development building backing web services, and am having lots of fun diving into Javascript and Node.js for some personal projects!
-
-I also love making life easier for fellow developers! At Plenty, I'm a member of the platform team, and work towards maintaining reliable distributed systems with minimal developer overhead.
+## What I've been up to
+- Having discovered the pains of vanilla JS firsthand, I'm having a lot of fun finally getting up speed with [React](https://reactjs.org/) for some personal work.
+- True to my ECE roots, I've been gravitating back towards the embedded Linux world again, with projects like [Yocto](https://www.yoctoproject.org/) to show me just how vast the space can be. At the same time, I finally have a use case to bust out some [Go](https://golang.org/)!
+- Sick of hearing about GIL performance woes, I've been picking up ASGI frameworks like [FastAPI](https://fastapi.tiangolo.com/) and pretending to be a Node developer in Python with async/await syntax and the like.
+- Still seeing how much time and money it takes before before I ditch the homelab setup and actually cloud host some things, but I just love Pis so damn much. And anyway, [k8s on the edge](https://k3s.io/) is a thing now.
 
 ## Take a look around :mag:
-I aim to keep my projects as public as possible! Unless they're painfully new and unpolished or pose any sort of security/privacy concerns, you'll likely see it here. I can't promise they'll always be the most re-purposeable projects, but if you have any interest in contributing or referencing my code, feel free to shoot me a message or send me a PR!
+Lots of my work is still painfully infantile so I'm keeping it private for the time being, but I'm looking forward to open-sourcing some code soon! I can't promise universal usefullness to lots of my projects, but I'd love to open things up for collaboration or catch any bugs I might have missed.
 
 ## Find me online :globe_with_meridians:
 - Shoot me a message on [LinkedIn](https://www.linkedin.com/in/charlie-king4967/)
